@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [RaterHood application](https://github.com/mercedeszafeher/final-project-fall-2024.git)
 
-- 🌱 I’m currently learning **I’m learning to build responsive, user-friendly web interfaces with HTML, CSS, JavaScript, and React.**
+- 🌱 I’m currently learning **to build responsive, user-friendly web interfaces with HTML, CSS, JavaScript, and React.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mercedeszafeher?tab=repositories](https://github.com/mercedeszafeher?tab=repositories)
 
